@@ -1,0 +1,17 @@
+{
+    "toolchains": [
+        C
+        :
+        Users
+        \
+        HP-PC
+        \
+        Desktop
+        \
+        MasonCodingFiles
+        \
+        run.json
+    ],
+    "excluded": [],
+    "nodejs.editor.formatOnSave.prettier.mode": "Auto"
+}
